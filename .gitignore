@@ -2,7 +2,8 @@
 *.log
 *.gz
 *.toc
-*.pdf
+memoria.pdf
 *.out
 *.fdb_latexmk
 *.fls
+*.~vsdx
